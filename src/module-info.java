@@ -1,0 +1,3 @@
+ module MyRetailBuddy {
+	requires okio;
+}
